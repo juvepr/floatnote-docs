@@ -25,6 +25,11 @@ aux_links:
 # Enable copy code button
 enable_copy_code_button: true
 
+nav_order: 1
+nav_links:
+  - title: macOS Installation
+    url: /installation/macos/  # Use directory-style URL
+
 # Footer content
 footer_content: |
   <p>Copyright &copy; 2024 Ryacy Solutions. All rights reserved.</p>
