@@ -1,14 +1,21 @@
-# _config.yml
 title: FloatNote Documentation
 description: Official documentation for FloatNote - Intelligent note-taking app
 theme: just-the-docs
-url: https://docs.floatnote.com
-color_scheme: dark
+url: https://your-github-username.github.io/floatnote-docs
+color_scheme: light
+
+# Custom colors
+palette:
+  primary: "#333333"
+  accent: "#fb535a"
+  background: "#ffffff"
+  text: "#333333"
+  link: "#387ca4"
 
 # Enable search
 search_enabled: true
 
-# Aux links for top nav
+# Auxiliary links for the top nav
 aux_links:
   "FloatNote Website":
     - "https://ryacy.solutions"
@@ -19,4 +26,6 @@ aux_links:
 enable_copy_code_button: true
 
 # Footer content
-footer_content: "Copyright &copy; 2024 Ryacy Solutions. All rights reserved."
+footer_content: |
+  <p>Copyright &copy; 2024 Ryacy Solutions. All rights reserved.</p>
+  <p><a href="https://ryacy.solutions" style="color: #387ca4;">Visit FloatNote Website</a></p>
