@@ -1,0 +1,22 @@
+# _config.yml
+title: FloatNote Documentation
+description: Official documentation for FloatNote - Intelligent note-taking app
+theme: just-the-docs
+url: https://docs.floatnote.com
+color_scheme: dark
+
+# Enable search
+search_enabled: true
+
+# Aux links for top nav
+aux_links:
+  "FloatNote Website":
+    - "https://ryacy.solutions"
+  "Support":
+    - "mailto:support@ryacy.com"
+
+# Enable copy code button
+enable_copy_code_button: true
+
+# Footer content
+footer_content: "Copyright &copy; 2024 Ryacy Solutions. All rights reserved."
