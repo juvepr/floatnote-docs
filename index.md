@@ -11,8 +11,8 @@ FloatNote is an intelligent note-taking app that overlays on top of any applicat
 ## Quick Start
 
 Choose your platform to get started:
-- [macOS Installation Guide](./installation/macos)
-- [Windows Installation Guide](./installation/windows)
+- [macOS Installation Guide](./installation/macos/)
+- [Windows Installation Guide](./installation/windows/)
 
 ## Key Features
 
